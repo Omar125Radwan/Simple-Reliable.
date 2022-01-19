@@ -14,7 +14,6 @@
   align-items: center;
   justify-content: center;
   display: flex;
-  display: none;
   overflow-x: hidden;
 }
 .loader-container.active {
