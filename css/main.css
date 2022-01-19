@@ -25,11 +25,11 @@
 /*Loader*/
 /* indector */
 #indector {
-  background-color: #183b56;
+  background-color: #fff;
   height: 5px;
   width: 0;
   position: fixed;
-  z-index: 99;
+  z-index: 9999;
   top: 0;
 }
 /* indector */
